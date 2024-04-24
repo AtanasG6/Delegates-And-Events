@@ -8,8 +8,8 @@
 			//example.TestDelegate();
 
 			var example2 = new Example2();
-			example2.TestDelegate();
-
+			//example2.TestDelegate();
+			example2.TestDelegate2();
 			Console.ReadKey();
 		}
 	}
