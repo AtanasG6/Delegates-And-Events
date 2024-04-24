@@ -6,11 +6,13 @@
 
 		public int Sum(int a, int b)
 		{
+			Console.WriteLine("Sum called.");
 			return a + b;
 		}
 
 		public int Multiply(int a, int b)
 		{
+			Console.WriteLine("Multiply called.");
 			return a * b;
 		}
 
